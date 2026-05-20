@@ -4,7 +4,7 @@ import pandas as pd
 
 # --- CARGAR JSON ---
 try:
-    with open("catalogo.json", "r", encoding="utf-8") as f:
+    with open("aplicacion/catalogo.json", "r", encoding="utf-8") as f:
         catalogo_lista = json.load(f)
 except:
     st.error("No se encontró catalogo.json ❌")
