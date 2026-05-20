@@ -23,7 +23,7 @@ def main():
         st.text(""" """)
 
     with col2:
-        st.image("images/imagen1.jpg",width=500,output_format="JPEG",channels="RGB",use_container_width=True)
+        st.image("./images/imagen1.jpg",width=500,output_format="JPEG",channels="RGB",use_container_width=True)
     
 
 
