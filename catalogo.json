@@ -1,0 +1,159 @@
+[
+  {
+    "nombre": "laptop lenovo v14 g4 ryzen 5",
+    "categoria": "laptops",
+    "info": "Procesador AMD Ryzen 5 7520U (hasta 4.3 GHz)\nMemoria de 16GB LPDDR5\nSSD de 512GB\nPantalla de 14\" LED Full HD (1920 x 1080)\nS.O. Windows 11 Home\nIncluye Microsoft Office 365 Personal Preinstalado\nPrecio: $8,499.00 MXN"
+  },
+  {
+    "nombre": "laptop hp 255 g10 16gb",
+    "categoria": "laptops",
+    "info": "Procesador AMD Ryzen 5 7530U (hasta 4.5 GHz)\nMemoria de 16GB DDR4\nSSD de 512GB\nPantalla de 15.6\" LED\nVideo Radeon Graphics\nWindows 11 Home\nPrecio: $8,499.00 MXN"
+  },
+  {
+    "nombre": "laptop hp 255 g10 8gb",
+    "categoria": "laptops",
+    "info": "Procesador AMD Ryzen 5 7530U\nMemoria de 8GB DDR4\nSSD de 512GB\nPantalla 15.6\" HD\nPrecio: $7,799.00 MXN"
+  },
+  {
+    "nombre": "laptop lenovo ideapad slim 3",
+    "categoria": "laptops",
+    "info": "Intel Core i5 12450H\n16GB RAM\n1TB SSD\nPantalla 15.6\" Full HD\nPrecio: $11,499.00 MXN"
+  },
+  {
+    "nombre": "laptop dell dc15250",
+    "categoria": "laptops",
+    "info": "Intel Core i7 1355U\n32GB RAM\n2TB SSD\nPantalla 15.6\"\nPrecio: $16,999.00 MXN"
+  },
+  {
+    "nombre": "laptop dell inspiron 5440",
+    "categoria": "laptops",
+    "info": "Intel Core i5 1334U\n8GB RAM\n512GB SSD\nPantalla 14\"\nPrecio: $11,299.00 MXN"
+  },
+  {
+    "nombre": "laptop lenovo v14 g4 i3",
+    "categoria": "laptops",
+    "info": "Intel Core i3 1315U\n16GB RAM\n512GB SSD\nPrecio: $8,499.00 MXN"
+  },
+  {
+    "nombre": "laptop hp 245 g10",
+    "categoria": "laptops",
+    "info": "Ryzen 3\n8GB RAM\n256GB SSD\nPrecio: $6,499.00 MXN"
+  },
+  {
+    "nombre": "laptop hp 240 g10",
+    "categoria": "laptops",
+    "info": "Intel Core i3\n8GB RAM\n512GB SSD\nPrecio: $7,499.00 MXN"
+  },
+  {
+    "nombre": "laptop asus vivobook i5",
+    "categoria": "laptops",
+    "info": "Intel Core i5\n16GB RAM\n1TB SSD\nPrecio: $10,999.00 MXN"
+  },
+  {
+    "nombre": "laptop asus vivobook i3",
+    "categoria": "laptops",
+    "info": "Intel Core i3\n16GB RAM\n1TB SSD\nPrecio: $8,999.00 MXN"
+  },
+  {
+    "nombre": "laptop acer nitro v15",
+    "categoria": "laptops",
+    "info": "Intel i5\n16GB RAM\nRTX 5050\nPrecio: $15,999.00 MXN"
+  },
+  {
+    "nombre": "laptop acer aspire lite 15",
+    "categoria": "laptops",
+    "info": "Ryzen 7\n16GB RAM\n1TB SSD\nPrecio: $10,999.00 MXN"
+  },
+  {
+    "nombre": "laptop asus rog strix g16",
+    "categoria": "laptops",
+    "info": "Ryzen 9\nRTX 5070\nPrecio: $32,999.00 MXN"
+  },
+  {
+    "nombre": "macbook pro 13",
+    "categoria": "laptops",
+    "info": "Intel i5\n8GB RAM\n128GB SSD\nPrecio: $22,559.00 MXN"
+  },
+
+  {
+    "nombre": "servidor lenovo st45",
+    "categoria": "servidores",
+    "info": "AMD EPYC\n16GB RAM\n2TB HDD\nPrecio: $39,239.00 MXN"
+  },
+  {
+    "nombre": "servidor lenovo sr650",
+    "categoria": "servidores",
+    "info": "Intel Xeon\n32GB RAM\nPrecio: $89,699.00 MXN"
+  },
+  {
+    "nombre": "servidor hpe ml30",
+    "categoria": "servidores",
+    "info": "Xeon\n32GB RAM\nPrecio: $57,089.00 MXN"
+  },
+
+  {
+    "nombre": "ssd kingston 500gb",
+    "categoria": "almacenamiento",
+    "info": "500GB NVMe\nPrecio: $1,899.00 MXN"
+  },
+  {
+    "nombre": "ssd western digital 1tb",
+    "categoria": "almacenamiento",
+    "info": "1TB NVMe\nPrecio: $1,999.00 MXN"
+  },
+  {
+    "nombre": "ssd kingston 2tb",
+    "categoria": "almacenamiento",
+    "info": "2TB NVMe\nPrecio: $5,499.00 MXN"
+  },
+
+  {
+    "nombre": "memoria kingston fury 16gb",
+    "categoria": "memorias",
+    "info": "DDR4 3200MHz\nPrecio: $2,499.00 MXN"
+  },
+  {
+    "nombre": "memoria adata ddr5 16gb",
+    "categoria": "memorias",
+    "info": "DDR5 6000MHz\nPrecio: $4,389.00 MXN"
+  },
+
+  {
+    "nombre": "camara tp link tapo c200",
+    "categoria": "camaras",
+    "info": "1080p\nVision nocturna\nWiFi\nPrecio: $309.00 MXN"
+  },
+  {
+    "nombre": "camara dahua bullet",
+    "categoria": "camaras",
+    "info": "2MP con microfono\nPrecio: $379.00 MXN"
+  },
+
+  {
+    "nombre": "switch tp link 24 puertos",
+    "categoria": "redes",
+    "info": "Gigabit\nPrecio: $1,479.00 MXN"
+  },
+  {
+    "nombre": "switch cisco 24 puertos",
+    "categoria": "redes",
+    "info": "Gigabit + SFP\nPrecio: $7,939.00 MXN"
+  },
+
+  {
+    "nombre": "pc hp prodesk",
+    "categoria": "computadoras",
+    "info": "Intel i5\n16GB RAM\nPrecio: $14,799.00 MXN"
+  },
+
+  {
+    "nombre": "impresora canon g3110",
+    "categoria": "impresoras",
+    "info": "Sistema de tinta continua\nPrecio: $3,399.00 MXN"
+  },
+  {
+    "nombre": "impresora brother dcp",
+    "categoria": "impresoras",
+    "info": "Multifuncional\nPrecio: $3,499.00 MXN"
+  }
+]
