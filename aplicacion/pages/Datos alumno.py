@@ -1,5 +1,5 @@
 import streamlit as st
-import psycopg2 
+
 
 
 st.set_page_config(
